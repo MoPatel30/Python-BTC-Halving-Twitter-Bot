@@ -6,7 +6,7 @@ import requests
 import ssl
 import json
 import time
-import mykey
+
 
 ssl._create_default_https_context = ssl._create_unverified_context
 
