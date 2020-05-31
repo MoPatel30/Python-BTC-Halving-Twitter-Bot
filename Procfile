@@ -1,3 +1,3 @@
-worker: python example.py
+worker: python tweet.py
 
 
