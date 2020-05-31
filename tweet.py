@@ -9,23 +9,20 @@ from os import environ
 from twitterbot import getbitcoin_price
 
 
-
+# Oauth keys
 CONSUMER_KEY = environ['CONSUMER_KEY']
 CONSUMER_SECRET = environ['CONSUMER_SECRET']
 ACCESS_KEY = environ['ACCESS_KEY']
 ACCESS_SECRET = environ['ACCESS_SECRET']
 
+# CoinMarketCap API Key
+CMC_API_KEY = environ['CMC_API_KEY']
 
-# Oauth keys
 
 # Authentication with Twitter
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
 api = tweepy.API(auth)
-
-
-# CoinMarketCap API Key
-API_KEY = mykey.CMC_API_KEY
 
 
 price_before_halving = 8605.99
