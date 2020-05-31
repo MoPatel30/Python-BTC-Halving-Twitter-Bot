@@ -16,7 +16,7 @@ ACCESS_KEY = environ['ACCESS_KEY']
 ACCESS_SECRET = environ['ACCESS_SECRET']
 
 # CoinMarketCap API Key
-CMC_API_KEY = environ['CMC_API_KEY']
+API_KEY = environ['CMC_API_KEY']
 
 
 # Authentication with Twitter
