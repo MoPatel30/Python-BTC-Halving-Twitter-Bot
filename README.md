@@ -32,6 +32,7 @@ Creator: Mohammed Patel
 --
 
 2nd Year Computer Science & Software Engineering Student at Loyola University Chicago
+
 Lead Website Developer for Blockchain@LUC
 
 
