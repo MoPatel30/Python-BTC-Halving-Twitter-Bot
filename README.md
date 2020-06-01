@@ -8,7 +8,11 @@ This bot uses the CoinMarketCap (CMC) API to retrieve the current BTC price
 This bot gains it's functionality due to the Twitter API, which can be done by applying for a twitter developers account
 
 
-Bot tweets once a day, typically at 5pm central time. (**This is subject to change**)
+This Bot was automated using the free cloud service Heroku. Heroku was also used to help secure my API keys by using there
+hide config var feature.
+
+
+Bot tweets once a day, typically at 7pm central time. (**This is subject to change**)
 
 Tweet Example:
 
