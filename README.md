@@ -16,7 +16,7 @@ Bot tweets once a day, typically at 7pm central time. (**This is subject to chan
 
 Tweet Example:
 
-![Tweet Example](tweetEx.jpeg)
+![Tweet Example](NewTweetEx.jpeg)
 
 
 
