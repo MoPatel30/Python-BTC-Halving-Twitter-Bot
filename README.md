@@ -1,4 +1,4 @@
-## Bitcoin Halving Twitter Bot
+# Bitcoin Halving Twitter Bot
 
 
 This tweeting bot tweets the price of bitcoin compared to it's price right before the 3rd halving
