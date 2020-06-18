@@ -36,7 +36,8 @@ I've always had a passion for the bitcoin and blockchain space. I find it really
 
 
 Notable Followers as of June 17th:
-Michael Goldstein - Co-host of Noded Podcast, President of Nakamoto Institute, and Crypto Twitter OG (37.1k followers).
+
+Michael Goldstein (https://twitter.com/bitstein) - Co-host of Noded Podcast, President of Nakamoto Institute, and Crypto Twitter OG.
 
 
 Creator: Mohammed Patel
