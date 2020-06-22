@@ -40,12 +40,15 @@ Notable Followers as of June 17th:
 Michael Goldstein (https://twitter.com/bitstein) - Co-host of Noded Podcast, President of Nakamoto Institute, and Crypto Twitter OG.
 
 
+
+## Creator
 Creator: Mohammed Patel
---
 
 2nd Year Computer Science & Software Engineering Student at Loyola University Chicago
 
 Lead Website Developer for Blockchain@LUC
+
+Feel free to email me @Mopatel1214@gmail.com for any questions, comments, or concerns. :)
 
 
 
