@@ -48,7 +48,7 @@ Creator: Mohammed Patel
 
 Lead Website Developer for Blockchain@LUC
 
-Feel free to email me @Mopatel1214@gmail.com for any questions, comments, or concerns. :)
+
 
 
 
