@@ -13,7 +13,7 @@ Bot automation was done using the free cloud service Heroku. Heroku was also use
 hide config var feature.
 
 
-The twitter bot tweets once a day, typically at 8pm central time. (**This is subject to change**)
+The twitter bot tweets once a day, typically at 7pm central time. (**This is subject to change**)
 
 Tweet Example:
 
