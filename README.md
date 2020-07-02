@@ -1,5 +1,6 @@
 # Bitcoin Halving Twitter Bot
 
+## About
 
 This tweeting bot tweets the price of bitcoin compared to it's price right before the 3rd halving
 on May 11th, 2020.
@@ -30,12 +31,18 @@ Do not share your API key, secret, or access tokens with anyone, and do not publ
 
 
 
-## About
+## Languages/Tools/Services used
+
+This bot was coded in python and the tweepy API and CMC (CoinMarketCap) API were used to enable its full features.
+
+
+
+## Notable Followers
 
 I've always had a passion for the bitcoin and blockchain space. I find it really fascinating and I figured why not use my coding skills to create something to help the crypto community on twitter. I certainly believe this brings high value to the people and it serves as a daily reminder that bitcoin is still not dead :).
 
 
-Notable Followers as of June 17th:
+Notable Followers as of July 1st:
 
 Michael Goldstein (https://twitter.com/bitstein) - Co-host of Noded Podcast, President of Nakamoto Institute, and Crypto Twitter OG.
 
